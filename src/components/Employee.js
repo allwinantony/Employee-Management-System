@@ -1,0 +1,39 @@
+const Employee=[
+    {
+        id:"100",
+        uname:"John",
+        age:"23",
+        designation:"Developer",
+        salary:"100000"
+    },
+    {
+        id:"101",
+        uname:"Akshay",
+        age:"24",
+        designation:"Developer",
+        salary:"100001"
+    },
+    {
+        id:"102",
+        uname:"Kiran",
+        age:"25",
+        designation:"Developer",
+        salary:"100002"
+    },
+    {
+        id:"103",
+        uname:"Stevin",
+        age:"26",
+        designation:"Developer",
+        salary:"100003"
+    },
+    {
+        id:"104",
+        uname:"Surya",
+        age:"27",
+        designation:"Developer",
+        salary:"100004"
+    }
+]
+
+export default Employee
